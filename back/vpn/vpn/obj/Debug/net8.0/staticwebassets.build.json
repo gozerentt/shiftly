@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vmnA5nWhXCtODJv9rk92HgWvM1erg8ZTtucAn+qHV/o=",
+  "Source": "vpn",
+  "BasePath": "_content/vpn",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

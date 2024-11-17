@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Levi\\source\\repos\\vpn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\controllers\\vpncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\controllers\\vpncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\sshservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\sshservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\vpn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\vpn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\models\\vpnprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\models\\vpnprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\vpn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\vpn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|c:\\users\\levi\\source\\repos\\vpn\\vpn\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97640FD-2161-448D-9DA0-EF3054937E64}|vpn\\vpn.csproj|solutionrelative:vpn\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "vpn\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "vpn\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:59:13.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VpnController.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Controllers\\VpnController.cs",
+              "RelativeDocumentMoniker": "vpn\\Controllers\\VpnController.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Controllers\\VpnController.cs*",
+              "RelativeToolTip": "vpn\\Controllers\\VpnController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:54:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vpn.csproj",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\vpn.csproj",
+              "RelativeDocumentMoniker": "vpn\\vpn.csproj",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\vpn.csproj",
+              "RelativeToolTip": "vpn\\vpn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T12:49:11.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "vpn\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\WeatherForecast.cs",
+              "RelativeToolTip": "vpn\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:43:12.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Program.cs",
+              "RelativeDocumentMoniker": "vpn\\Program.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Program.cs",
+              "RelativeToolTip": "vpn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:37:40.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "vpn\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "vpn\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:27:35.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "database.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\database.cs",
+              "RelativeDocumentMoniker": "vpn\\database.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\database.cs",
+              "RelativeToolTip": "vpn\\database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:24:03.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SshService.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\SshService.cs",
+              "RelativeDocumentMoniker": "vpn\\SshService.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\SshService.cs",
+              "RelativeToolTip": "vpn\\SshService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:04:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VpnProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Models\\VpnProfile.cs",
+              "RelativeDocumentMoniker": "vpn\\Models\\VpnProfile.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Models\\VpnProfile.cs",
+              "RelativeToolTip": "vpn\\Models\\VpnProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:04:04.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vpn.http",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\vpn.http",
+              "RelativeDocumentMoniker": "vpn\\vpn.http",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\vpn.http",
+              "RelativeToolTip": "vpn\\vpn.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-16T13:31:30.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "vpn\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "vpn\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:57:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\StartUp.cs",
+              "RelativeDocumentMoniker": "vpn\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Levi\\source\\repos\\vpn\\vpn\\StartUp.cs",
+              "RelativeToolTip": "vpn\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:47:17.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
